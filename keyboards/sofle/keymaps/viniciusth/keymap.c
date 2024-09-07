@@ -85,20 +85,20 @@ const rgblight_segment_t PROGMEM layer_0_lights[] = RGBLIGHT_LAYER_SEGMENTS(
     {11, 1, HSV_BLUE}, // Bspc
     {12, 1, HSV_BLUE}, // Tab
     {13, 9, HSV_WHITE},
-    {22, 2, HSV_GRAY}, // special characters
+    {22, 2, HSV_YELLOW}, // special characters
     {24, 1, HSV_BLUE}, // LSHIFT
     {25, 7, HSV_WHITE},
-    {32, 4, HSV_GRAY},
+    {32, 4, HSV_YELLOW},
     {36, 3, HSV_BLUE}, // LCtrl, LGui, LAlt
     {39, 1, HSV_GREEN}, // MO(1)
     {40, 1, HSV_RED}, // up arrow
-    {41, 1, HSV_GRAY}, // (
-    {44, 1, HSV_GRAY}, // )
+    {41, 1, HSV_YELLOW}, // (
+    {44, 1, HSV_YELLOW}, // )
     {45, 1, HSV_RED}, // down arrow
     {48, 2, HSV_GREEN}, // MO(1), TG(1)
     {51, 1, HSV_GREEN}, // MO(2)
     {52, 1, HSV_RED}, // left arrow
-    {53, 4, HSV_GRAY}, // [{, space, enter, ]}
+    {53, 4, HSV_YELLOW}, // [{, space, enter, ]}
     {57, 1, HSV_RED} // right arrow
 );
 
